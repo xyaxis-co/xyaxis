@@ -14,8 +14,8 @@ So here you go! 🙂
 
 ## How to make a pull request?
 
-**1.** Fork [this](https://github.com/sujitIwale/xyaxis) repository.
-Click on the <a href="https://github.com/sujitIwale/xyaxis"><img src="https://img.icons8.com/fluency/30/000000/code-fork.png"/>
+**1.** Fork [this](https://github.com/xyaxis-co/xyaxis) repository.
+Click on the <a href="https://github.com/xyaxis-co/xyaxis"><img src="https://img.icons8.com/fluency/30/000000/code-fork.png"/>
 </a> symbol at the top right corner.
 
 <br> 
@@ -23,7 +23,7 @@ Click on the <a href="https://github.com/sujitIwale/xyaxis"><img src="https://im
 **2.** Clone the forked repository.
 <br> 
 ```bash
-git clone https://github.com/<your-username>/xyaxis.git
+git clone https://github.com/<your-username>/xyaxis-1.git
 ```
 
 <br> 
@@ -31,7 +31,7 @@ git clone https://github.com/<your-username>/xyaxis.git
 **3.** Navigate to the project directory.
 <br> 
 ```bash
-cd xyaxis.git
+cd xyaxis-1.git
 ```
 
 <br> 
